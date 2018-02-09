@@ -41,10 +41,6 @@ Software list:
 
    last modified is Wed Apr 19 06:33:52 +0300 2017
 
-  Windows SDK 7.1A no install, see readme.txt for instructions
-
-   last modified is Wed Sep 16 13:53:44 +0300 2015
-
   xdoc2txt 2.16.1 (x86/x64 see documentation for details)
 
    last modified is Sat Jul 08 05:41:19 +0300 2017
