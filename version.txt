@@ -33,13 +33,13 @@ Software list:
 
    last modified 15.02.2018 09:32:24 +0300
 
-  SumatraPDF v3.2 Git-7d29b0afb , Win32/Win64, P4/AMD64, MS VC++ 2017
+  SumatraPDF v3.2 Git-f0431d884 , Win32/Win64, P4/AMD64, MS VC++ 2017
 
-   last modified is 06.02.2018 02:19:20 +0300
+   last modified is 24.02.2018 01:38:21 +0300
 
-  SumatraPDF x86 & x64 Combine v3.2 Git-7d29b0afb , P4/AMD64, MS VC++ 2017
+  SumatraPDF x86 & x64 Combine v3.2 Git-f0431d884 , P4/AMD64, MS VC++ 2017
 
-   last modified is 06.02.2018 02:19:26 +0300
+   last modified is 24.02.2018 01:38:25 +0300
 
   Thunderbird Make Portable Kit (for any version):
 
