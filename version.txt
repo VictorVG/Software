@@ -13,9 +13,9 @@ Software list:
 
    last modified is Sun Aug 28 01:53:56 +0300 2016
 
-  FileZilla FTP Client Portable v3.37.3 (native portable, x86 and x64 different edition)
+  FileZilla FTP Client Portable v3.37.4 (native portable, x86 and x64 different edition)
 
-   last modified is 01.10.2018 16:04:18 +0300
+   last modified is 06.10.2018 10:36:41 +0300
 
   HTM2CHM 3.0.9.3
 
