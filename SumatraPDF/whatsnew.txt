@@ -1,0 +1,8 @@
+SumatraPDF v3.2 Git-5fce1b58e
+
+[5fce1b58e] 2019-11-13 01:01:56 -0800 Krzysztof Kowalczyk : work on better logging
+[1b9c57a26] 2019-11-13 00:39:29 -0800 Krzysztof Kowalczyk : add ButtonCtrl.[cpp|h]
+[99ce7c24a] 2019-11-12 21:52:08 -0800 Krzysztof Kowalczyk : fully restore text selection (fixes #1228)
+[ea535664a] 2019-11-12 21:18:21 -0800 Krzysztof Kowalczyk : restore text selection in pdf (for #1228)
+[c670500e8] 2019-11-12 20:59:03 -0800 Krzysztof Kowalczyk : simplify DocTocItem::AddSibling()
+[911ebfa4d] 2019-11-12 20:48:06 -0800 Krzysztof Kowalczyk : turn LabelWithCloseWnd  into a struct
