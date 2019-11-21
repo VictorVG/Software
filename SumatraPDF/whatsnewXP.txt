@@ -1,0 +1,6 @@
+SumatraPDF v3.2 Git-56c5dc61e
+
+[56c5dc61e] 2019-10-30 17:06:57 -0700 Krzysztof Kowalczyk : compile harfbuzz
+[9bccfb8cc] 2019-10-30 16:31:40 -0700 Krzysztof Kowalczyk : add hurfbuzz files
+[4a740f849] 2019-10-30 16:26:08 -0700 Krzysztof Kowalczyk : compile lcms2
+[85b083a60] 2019-10-30 16:14:28 -0700 Krzysztof Kowalczyk : add lcms2
