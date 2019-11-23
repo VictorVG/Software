@@ -1,13 +1,6 @@
-SumatraPDF v3.2 Git-97595ee56
+SumatraPDF v3.2 Git-19bd3ce3d
 
-[97595ee56] 2019-11-20 19:54:33 -0800 Krzysztof Kowalczyk : show 64-bit build first on pre-release downloads page
-[82ba0fb08] 2019-11-20 19:39:41 -0800 Krzysztof Kowalczyk : fix compilation of test app
-[a6fb1a5ad] 2019-11-20 16:26:23 -0800 Krzysztof Kowalczyk : update path to website
-[0a4dd876a] 2019-11-20 16:25:29 -0800 Krzysztof Kowalczyk : bring website into main repository
-[a9a591535] 2019-11-20 13:59:26 -0800 Krzysztof Kowalczyk : make imageRects be a Vec; remove PdfPageRun
-[49817f4d1] 2019-11-20 13:39:29 -0800 Krzysztof Kowalczyk : remove unneded code
-[4aa9a2337] 2019-11-20 13:32:40 -0800 Krzysztof Kowalczyk : restore annotations in PDF files (fixes #1232)
-[a03e4e19d] 2019-11-20 12:14:31 -0800 Krzysztof Kowalczyk : add TabWidth setting (fixes #15)
-[918ee3a55] 2019-11-20 11:46:15 -0800 Krzysztof Kowalczyk : clang format
-[0aa428bd5] 2019-11-20 11:45:23 -0800 Krzysztof Kowalczyk : ported HBox layout from goey
-[10399f43b] 2019-11-20 10:22:44 -0800 Krzysztof Kowalczyk : port expand layout
+[19bd3ce3d] 2019-11-22 17:19:45 -0800 Krzysztof Kowalczyk : simplify BuildPageLabelVec()
+[52a818f7b] 2019-11-22 16:58:17 -0800 Krzysztof Kowalczyk : remove more use of GetRValueSafe()
+[a10aa6833] 2019-11-22 03:22:04 -0800 Krzysztof Kowalczyk : fix installer build
+[26c562c40] 2019-11-22 02:56:32 -0800 Krzysztof Kowalczyk : fix color serialization; add unit tests for color serialization / deserialization etc.
