@@ -1,6 +1,8 @@
-SumatraPDF v3.2 Git-19bd3ce3d
+SumatraPDF v3.2 Git-0221977c7
 
-[19bd3ce3d] 2019-11-22 17:19:45 -0800 Krzysztof Kowalczyk : simplify BuildPageLabelVec()
-[52a818f7b] 2019-11-22 16:58:17 -0800 Krzysztof Kowalczyk : remove more use of GetRValueSafe()
-[a10aa6833] 2019-11-22 03:22:04 -0800 Krzysztof Kowalczyk : fix installer build
-[26c562c40] 2019-11-22 02:56:32 -0800 Krzysztof Kowalczyk : fix color serialization; add unit tests for color serialization / deserialization etc.
+[0221977c7] 2019-11-23 17:03:32 -0800 Krzysztof Kowalczyk : fix one more typo in manual
+[2a4b40b43] 2019-11-23 14:50:17 -0800 Krzysztof Kowalczyk : fix typos in manual
+[e3c11bff8] 2019-11-23 14:45:57 -0800 Krzysztof Kowalczyk : fix typos in manual
+[56d834414] 2019-11-23 12:43:14 -0800 Krzysztof Kowalczyk : update docs; in bookmarks tree, make enter toggle current tree item
+[7a8a4a16c] 2019-11-23 12:10:05 -0800 Krzysztof Kowalczyk : document tree ctrl keys
+[72a74d7a1] 2019-11-23 11:58:17 -0800 Krzysztof Kowalczyk : add experimental context menu to bookmarks tree to collapse / expand all nodes
